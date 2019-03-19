@@ -1,3 +1,0 @@
-greeter.o: units/greeter.cpp units/greeter.hpp
-greeting1.o: /home/ofra/test/ex1/greeting1.cpp \
-  /home/ofra/test/ex1/units/greeter.hpp
